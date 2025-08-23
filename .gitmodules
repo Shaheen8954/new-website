@@ -1,3 +1,9 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "new-website-pages"]
+	path = new-website-pages
+	url = https://github.com/Shaheen8954/new-website-pages.git
+[submodule "public"]
+	path = public
+	url = https://github.com/Shaheen8954/new-website-pages.git
